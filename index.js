@@ -1,5 +1,5 @@
 
-const a = 10;
-const b = 90;
+const a = 11;
+const b = 92;
 
-console.log(a+b);
+console.log(a*b);
